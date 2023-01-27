@@ -1,1 +1,2 @@
-# ddy
+trojan-go://819da355-3a0a-489c-912b-b88463b3ab0d@bgfyijyyt.ytrpoluy.repl.co:443/?type=ws&sni=bgfyijyyt.ytrpoluy.repl.co&host=bgfyijyyt.ytrpoluy.repl.co&path=%2F819da355-3a0a-489c-912b-b88463b3ab0d-trojan#trojan-go@gseqtukyulqw.trhgkuf.repl.co:443
+vmess://ws+tls:819da355-3a0a-489c-912b-b88463b3ab0d-0@bgfyijyyt.ytrpoluy.repl.co:443/?host=bgfyijyyt.ytrpoluy.repl.co&path=/819da355-3a0a-489c-912b-b88463b3ab0d-vmess&tlsServerName=bgfyijyyt.ytrpoluy.repl.co#vmess/yrwojhdqw.trhgkuf.repl.co:443-npumi
